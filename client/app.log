@@ -1,0 +1,240 @@
+2024-03-08 02:19:36,516 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:19:36,518 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709885976.515195 HTTP/1.1" 200 None
+2024-03-08 02:19:36,895 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:19:36,898 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:19:36,953 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:19:36,953 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:19:36,953 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:19:36,953 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:23:33,883 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:23:33,890 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886213.87594 HTTP/1.1" 200 None
+2024-03-08 02:23:52,851 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:23:52,856 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886232.8423629 HTTP/1.1" 200 None
+2024-03-08 02:23:54,176 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:23:54,179 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886234.174931 HTTP/1.1" 200 None
+2024-03-08 02:24:01,225 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:24:01,228 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886241.223351 HTTP/1.1" 200 None
+2024-03-08 02:24:48,517 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:24:48,523 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886288.5093892 HTTP/1.1" 200 None
+2024-03-08 02:26:01,135 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:26:01,137 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886361.132556 HTTP/1.1" 200 None
+2024-03-08 02:26:30,207 - DEBUG - Resetting dropped connection: 127.0.0.1
+2024-03-08 02:26:30,210 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886390.2052429 HTTP/1.1" 200 None
+2024-03-08 02:27:18,970 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:27:18,973 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886438.967985 HTTP/1.1" 200 None
+2024-03-08 02:27:19,349 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:27:19,353 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:27:19,421 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:27:19,422 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:27:19,422 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:27:19,422 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:27:29,948 - DEBUG - Starting new HTTPS connection (1): codeload.github.com:443
+2024-03-08 02:27:30,196 - DEBUG - https://codeload.github.com:443 "GET /robocorp/example-google-image-search/zip/refs/heads/main HTTP/1.1" 200 None
+2024-03-08 02:27:30,202 - INFO - Robot  Example-google-image-search downloaded and unzipped successfully
+2024-03-08 02:31:07,813 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:31:07,815 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886667.811439 HTTP/1.1" 200 None
+2024-03-08 02:31:08,205 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:31:08,209 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:31:08,309 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:31:08,309 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:31:08,309 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:31:08,309 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:33:46,990 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:33:46,992 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709886826.987134 HTTP/1.1" 200 None
+2024-03-08 02:33:47,413 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:33:47,417 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:33:47,480 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:33:47,480 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:33:47,480 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:33:47,480 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:33:55,366 - INFO - Executing task 'Image search' with details: {'robotTaskName': 'Execute Google image search and store the first result image'}
+2024-03-08 02:33:55,367 - INFO - Executed task 'Image search' with details: 
+2024-03-08 02:36:58,064 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:36:58,066 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709887018.062353 HTTP/1.1" 200 None
+2024-03-08 02:36:58,436 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:36:58,440 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:36:58,522 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:36:58,522 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:36:58,523 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:36:58,523 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:37:02,491 - INFO - Executing task 'Image search' with details: {'robotTaskName': 'Execute Google image search and store the first result image'}
+2024-03-08 02:37:02,492 - INFO - Executed task 'Image search' with details: 
+2024-03-08 02:37:59,251 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:37:59,254 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709887079.250017 HTTP/1.1" 200 None
+2024-03-08 02:37:59,626 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:37:59,630 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:37:59,690 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:37:59,690 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:37:59,690 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:37:59,690 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:38:06,617 - INFO - Executing task 'Image search' with details: {'robotTaskName': 'Execute Google image search and store the first result image'}
+2024-03-08 02:38:06,618 - INFO - Executed task 'Image search' with details: 
+2024-03-08 02:40:30,199 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:40:30,202 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709887230.197269 HTTP/1.1" 200 None
+2024-03-08 02:40:30,576 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 02:40:30,580 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 02:40:30,647 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 02:40:30,647 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 02:40:30,647 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 02:40:30,647 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 02:40:34,015 - INFO - Executing task 'Image search' with details: {'robotTaskName': 'Execute Google image search and store the first result image'}
+2024-03-08 02:40:34,016 - INFO - Executed task 'Image search' with details: 
+2024-03-08 05:42:48,789 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 05:42:48,804 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709898168.7875001 HTTP/1.1" 403 0
+2024-03-08 05:44:21,040 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 05:44:21,044 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709898261.039244 HTTP/1.1" 403 0
+2024-03-08 05:45:53,275 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 05:45:53,280 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709898353.274142 HTTP/1.1" 403 0
+2024-03-08 05:51:35,328 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 05:51:35,330 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709898695.325644 HTTP/1.1" 200 None
+2024-03-08 05:51:35,700 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 05:51:35,707 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 05:51:35,770 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 05:51:35,770 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 05:51:35,770 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 05:51:35,770 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 05:55:37,110 - DEBUG - Starting new HTTPS connection (1): codeload.github.com:443
+2024-03-08 05:55:37,378 - DEBUG - https://codeload.github.com:443 "GET /robocorp/example-google-image-search/zip/refs/heads/main HTTP/1.1" 200 None
+2024-03-08 05:55:37,389 - INFO - Robot  Example-google-image-search downloaded and unzipped successfully
+2024-03-08 06:07:54,124 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:07:54,127 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709899674.122143 HTTP/1.1" 200 None
+2024-03-08 06:07:54,506 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:07:54,511 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:07:54,571 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:07:54,571 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:07:54,571 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:07:54,571 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:11:02,997 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:11:02,998 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709899862.994005 HTTP/1.1" 200 None
+2024-03-08 06:11:03,371 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:11:03,376 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:11:03,436 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:11:03,436 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:11:03,436 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:11:03,436 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:15:19,555 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:15:19,557 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900119.552171 HTTP/1.1" 200 None
+2024-03-08 06:15:19,933 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:15:19,941 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:15:20,012 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:15:20,012 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:15:20,012 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:15:20,012 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:16:14,729 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:16:14,732 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900174.7279942 HTTP/1.1" 200 None
+2024-03-08 06:16:15,107 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:16:15,116 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:16:15,173 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:16:15,173 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:16:15,173 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:16:15,173 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:17:23,786 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:17:23,789 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900243.783686 HTTP/1.1" 200 None
+2024-03-08 06:17:24,168 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:17:24,172 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:17:24,233 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:17:24,233 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:17:24,233 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:17:24,233 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:18:41,926 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:18:41,928 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900321.924632 HTTP/1.1" 200 None
+2024-03-08 06:18:42,302 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:18:42,306 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:18:42,369 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:18:42,369 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:18:42,369 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:18:42,369 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:20:55,390 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:20:55,393 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900455.388151 HTTP/1.1" 200 None
+2024-03-08 06:20:55,920 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:20:55,927 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:20:55,984 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:20:55,984 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:20:55,984 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:20:55,984 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:22:58,736 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:22:58,738 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900578.7343738 HTTP/1.1" 200 None
+2024-03-08 06:22:59,112 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:22:59,116 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:22:59,182 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:22:59,182 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:22:59,182 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:22:59,182 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:23:30,499 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:23:30,502 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900610.4975739 HTTP/1.1" 200 None
+2024-03-08 06:23:30,875 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:23:30,879 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:23:30,943 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:23:30,943 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:23:30,943 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:23:30,943 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:25:51,187 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:25:51,189 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900751.185577 HTTP/1.1" 200 None
+2024-03-08 06:25:51,562 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:25:51,566 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:25:51,625 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:25:51,625 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:25:51,625 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:25:51,625 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:26:50,180 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:26:50,182 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900810.177084 HTTP/1.1" 200 None
+2024-03-08 06:26:50,557 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:26:50,560 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:26:50,625 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:26:50,625 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:26:50,625 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:26:50,625 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:29:00,127 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:29:00,128 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709900940.124651 HTTP/1.1" 200 None
+2024-03-08 06:29:00,502 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:29:00,505 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:29:00,572 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:29:00,572 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:29:00,572 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:29:00,572 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:31:00,475 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:31:00,477 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709901060.473826 HTTP/1.1" 200 None
+2024-03-08 06:31:00,855 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:31:00,858 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:31:00,911 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:31:00,911 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:31:00,911 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:31:00,911 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:32:05,578 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:32:05,582 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709901125.5760589 HTTP/1.1" 200 None
+2024-03-08 06:32:05,970 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:32:05,979 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:32:06,040 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:32:06,040 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:32:06,040 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:32:06,040 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 06:35:39,350 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:35:39,353 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709901339.3486989 HTTP/1.1" 200 None
+2024-03-08 06:35:39,742 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 06:35:39,750 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 06:35:39,814 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 06:35:39,814 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 06:35:39,814 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 06:35:39,814 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 10:04:24,676 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 10:04:24,679 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709913864.674048 HTTP/1.1" 200 None
+2024-03-08 10:04:25,087 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 10:04:25,092 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 404 36
+2024-03-08 10:04:30,087 - INFO - RCC installed successfully. Version: v17.18.0
+2024-03-08 10:04:45,103 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 10:04:45,112 - DEBUG - http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 64
+2024-03-08 10:04:47,313 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 10:04:47,313 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 10:04:47,313 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 10:04:47,313 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 10:05:03,760 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 10:05:03,763 - DEBUG - http://127.0.0.1:5000 "GET /socket.io/?transport=polling&EIO=4&t=1709913903.759129 HTTP/1.1" 200 None
+2024-03-08 10:05:04,140 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-03-08 10:05:04,145 - DEBUG - http://127.0.0.1:5000 "POST /check_device_registered HTTP/1.1" 200 42
+2024-03-08 10:05:04,205 - DEBUG - STREAM b'IHDR' 16 13
+2024-03-08 10:05:04,205 - DEBUG - STREAM b'pHYs' 41 9
+2024-03-08 10:05:04,205 - DEBUG - STREAM b'iTXt' 62 1521
+2024-03-08 10:05:04,205 - DEBUG - STREAM b'IDAT' 1595 5217
+2024-03-08 10:05:18,583 - DEBUG - Starting new HTTPS connection (1): codeload.github.com:443
+2024-03-08 10:05:18,798 - DEBUG - https://codeload.github.com:443 "GET /robocorp/example-google-image-search/zip/refs/heads/main HTTP/1.1" 200 None
+2024-03-08 10:05:18,810 - INFO - Robot  Example-google-image-search downloaded and unzipped successfully

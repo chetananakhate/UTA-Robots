@@ -1,0 +1,21 @@
+appdirs
+Flask
+Flask-SocketIO
+pystray
+PyYAML
+Pillow
+requests
+tk
+
+
+# # Windows-specific requirements
+# ; sys_platform == 'win32'
+# pywin32==302
+
+# # macOS-specific requirements
+# ; sys_platform == 'darwin'
+# # No additional requirements needed for macOS
+
+# # Linux-specific requirements
+# ; sys_platform == 'linux'
+# # No additional requirements needed for Linux
